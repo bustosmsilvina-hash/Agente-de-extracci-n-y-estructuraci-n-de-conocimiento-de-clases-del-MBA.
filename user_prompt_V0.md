@@ -1,0 +1,1 @@
+Procesá la transcripción adjunta siguiendo las instrucciones del proyecto. Generá la ficha de conocimiento estructurada y el archivo Excel correspondiente. Utilizá exclusivamente la información de la transcripción.
